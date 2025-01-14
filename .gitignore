@@ -25,3 +25,4 @@ src/tools/de-target/
 src/tools/de-legends-list.json
 .env
 .firebase/hosting.ZGlzdA.cache
+.firebaserc
