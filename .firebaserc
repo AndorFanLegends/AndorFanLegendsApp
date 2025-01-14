@@ -1,4 +1,9 @@
 {
+  "projects": {
+    "production": "andorfanlegends"
+  },
+  "targets": {},
+  "etags": {},
   "hosting": {
     "site": "andorfanlegends",
     "public": "public"
