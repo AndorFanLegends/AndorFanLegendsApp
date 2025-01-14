@@ -1,0 +1,64 @@
+{
+    "name": "Auf der Suche nach dem Bösen - Das Ende der Jagd (Teil 3)",
+    "slug": "auf-der-suche-nach-dem-bosen-das-ende-der-jagt-teil-3",
+    "abstract": "Nachdem lange Zeit Frieden in Andor geherrscht hatte, wurden jetzt immer mehr Kreaturen entdeckt. Irgendeine dunkle Kraft schien sie anzutreiben. Die Helden machten sich sofort auf die Suche und folgten ersten Spuren durch das gesamte Königreich, zwischenzeitlich auch nach Cavern. Die Suche schien endlos lange zu dauern...\n\nIhr benötigt: Grundspiel",
+    "cards": [
+      {
+        "name": "A",
+        "slug": "a",
+        "subname": "",
+        "type": "letter",
+        "text": "Diese Legende wird auf der Vorderseite des Grundspielplans (in Andor) gespielt.\n\nSortiert zunächst die Hexe aus den Nebelplättchen heraus. Anschließend führt ihr die Checkliste aus, wobei Feld 49 frei von Nebelplättchen bleibt.Legt anschließend neben dem üblichen Spielmaterial noch folgendes neben dem Spielplan bereit:\n- Pergamente \n- Varkur\n- 16 Legendenkarten\n\nErwürfelt mit einem roten (10er) und einem Heldenwürfel (1er) die Position von 1 der 6 Runensteine und allen 3 Heilkräutern. Die restlichen 5 Runensteine legt ihr an die Buchstaben B -- F der Legendenleiste. Bei jeder Erzählerbewegung wird ein neuer Runenstein wie oben erklärt ausgewürfelt. (Hinweis: Es ist am Ende möglich, dass 2 Helden mit schwarzen Würfel würfeln können!)\n\nStellt die Helden auf den Baum der Lieder (Feld 57). Die Helden starten mit 6 Stärke- und 7 Willenspunkten.\n\n*Die Helden waren zurück in Andor, doch die Bewohner des Baumes der Lieder waren in Aufruhr. „Noch nie in meinem ganzen Leben habe ich so viele Kreaturen gesehen\", sprach Melkart, der Bewahrer des Baumes der Lieder. „Die Rietburg ist in großer Gefahr. Wir werden euch helfen und geben euch alles, was wir haben. Ich sammelte alle Ressourcen der Bewohner, doch es ist leider nicht so viel, wie ich erhofft hatte. Hier, bitte nehmt es und rettet Andor...\" sprach Melkart. Die Helden bedankten sich und wussten, dass es Zeit war zu handeln.*\n\nDie Heldengruppe erhält jetzt den Gegenstand Gift und 12 Gold. *(Hinweis: das Gold kann sofort beim Händler auf Feld 57 eingesetzt werden.)*\n\n*Die Helden blickten sich um und konnten ihren Augen kaum trauen. Melkart hatte Recht, das Land war mit bösen Kreaturen geradezu übersät.*\n\nStellt Gors auf die Felder 5, 9, 14, 23, 44 und 52.\nStellt Skrale auf die Felder 2, 22, 45 und 55.\nStellt Trolle auf die Felder 29 und 41.\nStellt Wardracks auf die Felder 30 und 66.\n\n*Doch die Helden konnten auch Bauern erkennen, die bis zuletzt tapfer durchhielten, jedoch jetzt den Weg zur schützenden Rietburg suchten.*\n\nLegt Bauernplättchen auf die Felder 28, 40 und 64. Legt Sternchen auf die Buchstaben D, H, I und N der Legendenleiste.\n\n*„Wir müssen Varkur finden. Wenn wir ihn stoppen, stoppen wir auch die Flut an Kreaturen. Wir sollten uns in der Taverne umhören, dort haben wir schon des Öfteren wichtige Informationen erhalten\", sprach einer der Helden.*\n\nLegt nun ein Sternchen auf die Taverne (Feld 72). Wenn ein Held die Taverne erreicht, wird die Legendenkarte „In der Taverne\" vorgelesen.\n\n*„Auf geht's, lasst uns Andor ein für alle Mal befreien!\" rief einer der Helden, bevor das nächste Abenteuer begann.*\n\n**Heldenaufgabe**:\n- Burg beschützen\n- Taverne aufsuchen\n\nDer Held mit den längsten Haaren beginnt."
+      },
+      {
+        "name": "D",
+        "slug": "d",
+        "subname": "",
+        "type": "letter",
+        "text": "*Der Strom an Kreaturen riss nicht ab. Immer wieder und wieder wurden neue Kreaturen gesichtet und verbreiteten Angst und Schrecken. Ein weiterer Bauer machte sich auf den Weg zur Rietburg.*\n\nStellt Gors auf die Felder 15, 25 und 26.  Stellt einen Skral auf Feld 27 und legt ein Bauernplättchen auf Feld 24."
+      },
+      {
+        "name": "H",
+        "slug": "h",
+        "subname": "",
+        "type": "letter",
+        "text": "*Die Bedrohung schien kein Ende zu nehmen, denn immer wieder wurde von neuen Kreaturen berichtet, die das Land heimsuchten.*\n\nStellt einen Gor auf Feld 33 und einen Troll auf Feld 30."
+      },
+      {
+        "name": "I",
+        "slug": "i",
+        "subname": "",
+        "type": "letter",
+        "text": "*Viele Kreaturen waren bereits geschlagen, doch Varkur schien zu einer letzten großen Attacke auszuholen. Wieder waren neue Kreaturen gesichtet worden.*\n\nStellt Gors auf die Felder 37, 47 und 56.\n\nStellt Trolle auf die Felder 41 und 46."
+      },
+      {
+        "name": "N",
+        "slug": "n",
+        "subname": "",
+        "type": "end",
+        "success": "Die Legende nahm ein **gutes Ende,** wenn... \n- die Burg erfolgreich verteidigt wurde und\n- Varkur besiegt wurde\n\n*Nach schier endlos scheinenden Mühen konnten die Helden endlich das Land Andor befreien. Varkur wurde besiegt und es folgten viele Jahre des Friedens.*",
+        "failure": "Die Legende nahm ein **böses Ende**, wenn...\n- die Burg nicht verteidigt wurde oder\n- Varkur nicht besiegt wurde\n\n*Varkus war zu mächtig. Die Helden konnten ihr nicht stoppen und Andor war Geschichte.*"
+      },
+      {
+        "name": "In der Tarverne",
+        "slug": "in-der-tarverne",
+        "subname": "Diese Karte wird aufgedeckt, sobald ein Held die Taverne erreicht, auf der ein Sternchen liegt",
+        "type": "custom",
+        "text": "*Einer der Helden betrat die Taverne und spürte sofort die Unsicherheit und Nervosität, die von den verängstigten Andori ausging. „Wisst ihr etwas über Varkur oder die Kreaturen?\" fragte der Held.*\n\n*Die anwesenden Andori schauten sich besorgt an und einer stammelte nervös vor sich hin: „Varkur ist hier! Er treibt die Kreaturen an! Die Hexe Reka weiß Bescheid, ihr müsst sie aufsuchen. Sie versteckt sich im Wald jenseits des Flusses und wartet bereits auf euch...\"*\n\n*Der Held sagte kurz: „Danke, mein Freund!\" und war bereits wieder aus der Taverne geeilt.*\n\nStellt die Figur der Hexe auf Feld 49. Sobald ein Held dieses Feld erreicht, wird die Legendenkarte „Bei der Hexe\" vorgelesen.\n\n**Neue Heldenaufgaben:**\n- Burg beschützen\n- Hexe aufsuchen"
+      },
+      {
+        "name": "Bei der Hexe",
+        "slug": "bei-der-hexe",
+        "subname": "Diese Karte wird aufgedeckt, sobald ein Held die Hexe zum ersten Mal erreicht",
+        "type": "custom",
+        "text": "*Endlich hatte der Held die Hexe erreicht. „Zum Glück habt ihr mich gefunden\", sagte sie. „Keine Sekunde zu früh. Ich wollte gerade Varkur's Aufenthaltsort bestimmen, doch dann merkte ich, dass mir einige Seiten aus meinem Zauberbuch fehlen. Varkur muss sie gestohlen und sie im ganzen Land verstreut haben! Ihr müsst sie mir wiederbringen, damit ich euch sagen kann, wo sich Varkur gerade befindet. Einstweilen kann ich euch sagen, dass er sehr stark und mächtig ist. Stärker als je zuvor!\"*\n\nErwürfelt nun die Position von 4 verdeckten Pergamenten wie folgt:\n- Pergament 1: 10 + 1 Helden-Würfelwert\n- Pergament 2: 20 + 1 Helden-Würfelwert\n- Pergament 3: 30 + 1 Helden-Würfelwert\n- Pergament 4: 40 + 1 Helden-Würfelwert\n\n*(Beispiel: Pergament 1: 10 + Würfelwert 4 = Feld 14)*\n\nDie 4 Pergamente müssen zur Hexe gebracht werden. Wenn alle 4 Pergamente bei der Hexe sind, wird die Legendenkarte „**Pergamente zur Hexe gebracht**\" vorgelesen.\n\n*„Einstweilen habe ich hier 2 magische Kreuze für euch. Ihr könnt damit die Kreaturen ein wenig aufhalten\", sprach die Hexe.*\n\nDie Helden erhalten nun 2 rote X, mit denen sie jeweils ein Symbol am Sonnenaufgangsfeld abdecken können. Dadurch wird dieses Ereignis am Sonnenaufgang ausgelassen. Dies kann auch an 2 verschiedenen Tagen geschehen. (So kann beispielsweise 2x die Bewegung von Trollen verhindert werden.) Einstweilen werden die roten X auf die Heldentafel im Bereich des Goldes gelegt.\n\nWenn die roten X verwendet wurden, kommen sie aus dem Spiel.\n\n*„Ich weiß bereits sehr viel von Varkur, doch müsst ihr mir helfen, seinen Aufenthaltsort zu ermitteln!\" sagte die Hexe. Der Held nickte und wusste, was zu tun war.*\n\nVarkur hat im Kampf 20 Willenspunkte, 2 schwarze Würfel und Stärkepunkte wie folgt:\n- bei 2 Spielern: 30 Stärkepunkte\n- bei 3 Spielern: 44 Stärkepunkte\n- bei 4 Spielern: 58 Stärkepunkte\n\nHinweis: der Held erhält **keinen** Trank der Hexe, allerdings kann man ihn käuflich erwerben.\n\n**Neue Heldenaufgaben:**\n- Burg beschützen\n- 4 Pergamente zur Hexe bringen"
+      },
+      {
+        "name": "Pergamente der Hexe gebracht",
+        "slug": "pergamente-der-hexe-gebracht",
+        "subname": "Diese Karte wird aufgedeckt, sobald alle Pergamente der Hexe gebracht wurden",
+        "type": "custom",
+        "text": "*Der Held brachte die letzten Seiten zur Hexe. „Vielen Dank\", sagte sie. „Jetzt kann ich meinen Zauber wirken lassen und euch sagen, wo sich Varkur versteckt.\"*\n\nWürfelt nun mit einem schwarzen Würfel und summiert den Wert mit den Zahlen auf den Pergamenten. Das Ergebnis ist das Feld, auf dem sich Varkur befindet. Stellt Varkur auf das entsprechende Feld. *(Beispiel: die Pergamente haben die Werte 8, 9, 10 und 13, der Würfel zeigt 10: 8+9+10+13+10= 50 -> Varkur wird auf Feld 50 gestellt).*\n\nSollte sich bereits eine Kreatur auf diesem Feld befinden, wird sie einfach aus dem Spiel genommen.\n\n**Neue Heldenaufgaben:**\n- Burg beschützen\n- Varkur besiegen\n\nNochmals zur Erinnerung Varkur's Stärke:\n\nVarkur hat im Kampf 20 Willenspunkte, 2 schwarze Würfel (wobei gleiche Würfelwerte wie immer addiert werden) und Stärkepunkte wie folgt:\n- bei 2 Spielern: 30 Stärkepunkte\n- bei 3 Spielern: 44 Stärkepunkte\n- bei 4 Spielern: 58 Stärkepunkte\n\nSollte Varkur weniger als 7 Willenspunkte haben, hat er nur noch einen schwarzen Würfel.\n\nWenn Varkur besiegt ist, wird der Erzähler sofort auf Feld N der Legendenleiste gestellt."
+      }
+    ]
+  }

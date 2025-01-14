@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <title><%= htmlWebpackPlugin.options.title %></title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
+        <link rel="stylesheet" type="text/css" href="/index.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+        <link rel="manifest" href="/manifest.webmanifest">
+        <!-- Preload static images -->
+        <link rel="prefetch" href="./img/blankocard.png" as="image">
+        <!--<link rel="prefetch" href="./../node_modules/andor-legendenkarte/asserts/mini/right.png" as="image">-->
+  </head>
+  <body>
+    <div id="app">
+        <div class="loading">
+          <div class="sk-folding-cube">
+            <div class="sk-cube1 sk-cube"></div>
+            <div class="sk-cube2 sk-cube"></div>
+            <div class="sk-cube4 sk-cube"></div>
+            <div class="sk-cube3 sk-cube"></div>
+          </div>
+          Loading...
+        </div>
+      </div>
+    <!--
+      <script defer src="index.js"></script>
+      <script type="text/javascript">
+        if (process.env.NODE_ENV === 'production') {
+          if ('serviceWorker' in navigator) {
+            const SWUrl = '/service-worker.js';
+            navigator.serviceWorker.register(SWUrl).catch(function (error) {
+              // Registrierung fehlgeschlagen
+              console.log('SW-Registrierung fehlgeschlagen mit ' + error);
+            });
+          };
+        }
+      </script>
+    -->
+</html>

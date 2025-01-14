@@ -1,0 +1,21 @@
+{
+    "short_name": "Andor Fan Legends",
+    "name": "Andor - Fan-Legends",
+    "icons": [
+      {
+        "src": "/img/icons/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/?utm_source=web_app_manifest",
+    "background_color": "#ebd188",
+    "theme_color": "#ebd188",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
