@@ -27,7 +27,12 @@
         "title": "Settings",
         "availableLanguages": "Language",
         "apply": "Apply",
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "informations": "Informations",
+        "createLegend": "<b>To create legends</b> : <a href='https://andorfanlegendcreator.web.app/'>Andor FanLegend Creator</a>",
+        "shareLegend": "<b>To add a legend in the App</b> : Create an issue on the project's Github <a href='https://github.com/AndorFanLegends/AndorFanLegendsApp/issues'>AndorFanLegendsApp</a> and add the JSON of your legend.",
+        "originalApp": "This application is based on an idea and initial work by myidol/mdunisch (Forum : <a href='https://legenden-von-andor.de/forum/viewtopic.php?t=4468'>legenden-von-andor.de/forum</a>)",
+        "othersinformations": "For further information: See the project Github <a href='https://github.com/AndorFanLegends/AndorFanLegendsApp'>AndorFanLegendsApp</a>"
     },
     "search": "Search",
     "legend": {
