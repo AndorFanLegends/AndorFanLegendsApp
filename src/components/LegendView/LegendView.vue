@@ -130,6 +130,12 @@
 
 
 <style scoped>
+.v-card-title{
+    background: #5f5f5f;
+    color: #ffffff;
+}
+
+
 .cardbtn {
   margin: 10px;
   border-radius: 5px;
