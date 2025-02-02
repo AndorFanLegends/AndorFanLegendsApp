@@ -19,7 +19,8 @@ Thanks for original idea & vue app by myidol/mdunisch : https://github.com/mduni
 ## Available languages :
 The languages currently available for the interface are : EN (English), FR (French), DE (German)
 
-
+## Generate the legends abstracts
+npm run legends --locale=[fr|de|en]
 
 ## Project
 
